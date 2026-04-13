@@ -4,9 +4,6 @@
 
 # Bearish AI
 
-### AI-Powered Robo Day Trading
-
----
 
 **Profitable even in a bear market.**
 
